@@ -23,7 +23,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Brainlabsweb\\RazorPay\\RazorpayServiceProvider"
+                "Brainlabsweb\\Razorpay\\RazorpayServiceProvider"
             ],
             "aliases": {
                 "Razorpay": "Brainlabsweb\\Razorpay\\RazorpayFacade"
